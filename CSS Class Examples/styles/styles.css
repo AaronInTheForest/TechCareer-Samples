@@ -1,7 +1,18 @@
-section{
-    width: 40%;
-    float: left;
-    margin: 0 5%;
-    margin-bottom: 40px;
-}
+html{
 
+}
+body{
+    height:1000px;
+}
+/* Header */
+.navLink{
+    /* margin: 0 10%; */
+    float: left;
+    width:25%;
+}
+header {
+    background-color: aqua;
+    position: fixed;
+    top:0;
+    width:100%;
+}
